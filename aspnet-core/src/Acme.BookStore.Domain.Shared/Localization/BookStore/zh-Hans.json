@@ -1,8 +1,31 @@
 {
-    "culture": "zh-Hans",
-    "texts": {
-      "Menu:Home": "首页",
-      "Welcome": "欢迎",
-      "LongWelcomeMessage": "欢迎来到该应用程序. 这是一个基于ABP框架的启动项目. 有关更多信息, 请访问 abp.io."
-    }
+  "culture": "zh-Hans",
+  "texts": {
+    "Menu:Home": "首页",
+    "Welcome": "欢迎",
+    "LongWelcomeMessage": "欢迎来到该应用程序. 这是一个基于ABP框架的启动项目. 有关更多信息, 请访问 abp.io.",
+    "Menu:BookStore": "图书商城",
+    "Menu:Books": "图书列表",
+    "Actions": "操作",
+    "Close": "关闭",
+    "Delete": "删除",
+    "Edit": "编辑",
+    "PublishDate": "发行日期",
+    "NewBook": "新书",
+    "Name": "名称",
+    "Type": "类型",
+    "Price": "价格",
+    "CreationTime": "创建时间",
+    "AreYouSure": "确认？",
+    "AreYouSureToDelete": "你确认要删除吗？",
+    "Enum:BookType.0": "未定义",
+    "Enum:BookType.1": "历险 ",
+    "Enum:BookType.2": "传记",
+    "Enum:BookType.3": "反乌托邦",
+    "Enum:BookType.4": "奇幻",
+    "Enum:BookType.5": "恐怖",
+    "Enum:BookType.6": "科学",
+    "Enum:BookType.7": "科幻",
+    "Enum:BookType.8": "诗歌"
   }
+}
